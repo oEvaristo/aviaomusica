@@ -1,0 +1,2 @@
+Ferramenta: image_gen integrada, edição da capa fornecida pelo usuário.
+Prompt: Alterar somente o subtítulo UM JOGO EM HOMENAGEM para Jogo na Unity em sua Homenagem. Letras grandes, em duas linhas: Jogo na Unity / em sua Homenagem. Usar creme com contorno e sombra azul escura. Preservar título dourado O PRÓXIMO VOO, retrato do homenageado, avião e sua pintura, cenário de entardecer, logos Unity e GPT e formato 16:9. Sem elementos adicionais.

@@ -1,0 +1,9 @@
+Generated with the built-in image_gen tool.
+Asset: Assets/Art/Aircraft/aviao.png
+
+Use case: stylized-concept
+Asset type: single transparent 2D airplane sprite for a Unity side-scrolling game titled O Próximo Voo, a peaceful flight at sunset.
+Primary request: A small charming single-engine civilian high-wing propeller airplane, strict orthographic side profile, nose pointing right, flying level. Whole aircraft visible, centered, with comfortable transparent margins. Coherent plausible aircraft silhouette with single tail fin, high wing seen edge-on in true side view, cockpit windows and fixed tricycle landing gear. One airplane only.
+Style/medium: polished hand-painted 2D game illustration, clean readable silhouette and crisp carefully finished edges, soft restrained shading, tasteful detail readable at small game size. Cream-colored fuselage with a muted warm red stripe and tail accents, blue-gray cockpit glass, charcoal wheels. Gentle warm sunset highlights but neutral enough to reuse throughout a game.
+Scene/backdrop: actual fully transparent alpha background; isolated aircraft only.
+Constraints: exact lateral profile without foreshortening, no three-quarter view, no large wing extending toward camera. No pilot portrait, scenery, sky, clouds, ground, drop shadow, words, lettering, registration numbers, logos, borders or watermark. No checkerboard painted into image. Propeller visible as a simple narrow vertical blade at the nose, no large motion blur. Deliver a clean production-ready transparent PNG sprite.

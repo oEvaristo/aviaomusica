@@ -1,0 +1,2 @@
+Ferramenta: image_gen integrada.
+Prompt: Inverter somente a hierarquia tipográfica da capa anterior. Texto principal no topo: Jogo na Unity em sua Homenagem, em letras brancas muito grandes e negrito, com contorno e sombra azul escura, dividido em Jogo na Unity / em sua / Homenagem. Texto secundário logo abaixo: O Próximo Voo, menor, dourado, em uma linha. Preservar o retrato, expressão, mão, avião, pintura, hélice, cenário, logos Unity e GPT e enquadramento 16:9. Não adicionar outras palavras ou elementos.

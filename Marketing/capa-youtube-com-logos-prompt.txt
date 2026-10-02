@@ -1,0 +1,2 @@
+Ferramenta: image_gen integrada, edição da capa anterior.
+Prompt: Adicionar apenas os logos fornecidos da Unity e do GPT/OpenAI lado a lado, como pequenos selos de ferramentas de desenvolvimento no canto inferior esquerdo da capa. Retirar os fundos branco e cinza das referências dos logos, preservar sua geometria e usar símbolos em creme sobre uma pequena placa azul escura com os nomes Unity e GPT. Preservar retrato, avião, pintura, hélice, cenário, texto e composição da capa original em 16:9. Sem outros elementos adicionais.
